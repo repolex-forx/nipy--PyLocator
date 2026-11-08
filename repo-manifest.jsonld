@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/nipy/PyLocator/commit/a8561fbd5c9a3f988ce9abf017a1b01759fc250c",
       "git:hexsha": "a8561fbd5c9a3f988ce9abf017a1b01759fc250c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/nipy/PyLocator/commit/6089fdd70e548e87282ffcde60a9ee3b5ac40c00",
