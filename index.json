@@ -1,0 +1,11 @@
+{
+  "org": "nipy",
+  "repo": "PyLocator",
+  "versions": [
+    {
+      "commit": "a8561fbd5c9a3f988ce9abf017a1b01759fc250c",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:38:19.021177+00:00"
+    }
+  ]
+}
